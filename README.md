@@ -1,4 +1,4 @@
-<h1>The TNT Update <a href="https://modrinth.com/project/the-tnt-update"><img src="images/thetntupdatelogov2.jpg" style="height: 3%; width: 3%;"></a></h1>
+<h1 id="header">The TNT Update <a href="https://modrinth.com/project/the-tnt-update"><img src="images/thetntupdatelogov2.jpg" style="height: 3%; width: 3%;"></a></h1>
 
 <strong>A Minecraft mod built for 1.21.8 that adds many cool new types of TNT.</strong>
 
@@ -204,7 +204,7 @@
 </table>
 
 
-<h2 id="media">Media</h2>
+<h2 id="media">Media<a href=""><img src="images/media_icon.jpg" style="width: 3%; height: 3%;"></a></h2>
 <figure>
     <img src="images/nuclear_tnt_image.png">
     <figcaption>The aftermath of the <strong>Nuclear TNT</strong>, which creates a massive explosion and creates fire even outside the blast radius</figcaption>
@@ -225,3 +225,6 @@
 <ul>
   <li>See the project <a href="LICENSE">license</a></li>
 </ul>
+
+<br>
+<a href="#header">Back to Top</a>
