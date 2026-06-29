@@ -199,8 +199,14 @@
 
 <h2>Media</h2>
 <figure>
-<img src="images/nuclear_tnt_image.png">
+    <img src="images/nuclear_tnt_image.png">
     <figcaption>The aftermath of the <strong>Nuclear TNT</strong>, which creates a massive explosion and creates fire even outside the blast radius</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+    <img src="images/worldeater_tnt_image.png">
+    <figcaption>The blast of the <strong>World Eater TNT</strong>, which creates a terrifying explosion</figcaption>
 </figure>
 
 
