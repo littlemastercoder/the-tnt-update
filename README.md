@@ -198,7 +198,11 @@
 
 
 <h2>Media</h2>
-<img src="images/nuclear_tnt_image">
+<figure>
+<img src="images/nuclear_tnt_image.png">
+    <figcaption>The aftermath of the <strong>Nuclear TNT</strong>, which creates a massive explosion and creates fire even outside the blast radius</figcaption>
+</figure>
+
 
 <h2>Get Mod <a href="https://modrinth.com/project/the-tnt-update"><img src="images/modrinth_logo.png" style="width: 2%; height: 2%;"></a></h2>
 
