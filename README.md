@@ -11,11 +11,18 @@
 > [!IMPORTANT]
 > This mod is only supported on Java 1.21.8. Using it on other versions does not guarantee stability or functionality.
 
+<h2>Table of Contents</h2>
+<ul>
+    <li><a href="#recipes">Recipes</a></li>
+    <li><a href="#media">Media</a></li>
+    <li><a href="#getmod">Get Mod</li>
+</ul>
+
 <h2>New TNT Crafting Recipies</h2>
 
 
 <!--Copied from Modrinth Website and Images Made Local-->
-<table>
+<table id="recipes">
     <thead>
         <tr>
             <th>Name</th>
@@ -197,7 +204,7 @@
 </table>
 
 
-<h2>Media</h2>
+<h2 id="media">Media</h2>
 <figure>
     <img src="images/nuclear_tnt_image.png">
     <figcaption>The aftermath of the <strong>Nuclear TNT</strong>, which creates a massive explosion and creates fire even outside the blast radius</figcaption>
@@ -210,7 +217,7 @@
 </figure>
 
 
-<h2>Get Mod <a href="https://modrinth.com/project/the-tnt-update"><img src="images/modrinth_logo.png" style="width: 2%; height: 2%;"></a></h2>
+<h2 id="getmod">Get Mod <a href="https://modrinth.com/project/the-tnt-update"><img src="images/modrinth_logo.png" style="width: 2%; height: 2%;"></a></h2>
 
 <p>To get The TNT Update Mod on Modrinth, click <a href="https://modrinth.com/project/the-tnt-update">this link.</a></p>
 
