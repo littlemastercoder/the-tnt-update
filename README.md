@@ -18,7 +18,7 @@
     <li><a href="#getmod">Get Mod</li>
 </ul>
 
-<h2>New TNT Crafting Recipies</h2>
+<h2>New TNT Crafting Recipies <a href="https://modrinth.com/mod/the-tnt-update"><img src="images/craftingtableicon.png" style="width: 2.5%; height: 2.5%;"></a></h2>
 
 
 <!--Copied from Modrinth Website and Images Made Local-->
@@ -204,7 +204,7 @@
 </table>
 
 
-<h2 id="media">Media<a href=""><img src="images/media_icon.jpg" style="width: 3%; height: 3%;"></a></h2>
+<h2 id="media">Media <a href="https://modrinth.com/mod/the-tnt-update/gallery"><img src="images/media_icon.jpg" style="width: 3%; height: 3%;"></a></h2>
 <figure>
     <img src="images/nuclear_tnt_image.png">
     <figcaption>The aftermath of the <strong>Nuclear TNT</strong>, which creates a massive explosion and creates fire even outside the blast radius</figcaption>
