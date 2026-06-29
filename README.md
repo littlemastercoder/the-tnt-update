@@ -16,6 +16,7 @@
     <li><a href="#recipes">Recipes</a></li>
     <li><a href="#media">Media</a></li>
     <li><a href="#getmod">Get Mod</li>
+    <li><a href="#legal">Legal and Guidelines</a></li>
 </ul>
 
 <h2>New TNT Crafting Recipies <a href="https://modrinth.com/mod/the-tnt-update"><img src="images/craftingtableicon.png" style="width: 2.5%; height: 2.5%;"></a></h2>
@@ -221,7 +222,7 @@
 
 <p>To get The TNT Update Mod on Modrinth, click <a href="https://modrinth.com/project/the-tnt-update">this link.</a></p>
 
-<h2>Legal and Guidelines</h2>
+<h2 id="legal">Legal and Guidelines</h2>
 <ul>
   <li>See the project <a href="LICENSE">license</a></li>
 </ul>
